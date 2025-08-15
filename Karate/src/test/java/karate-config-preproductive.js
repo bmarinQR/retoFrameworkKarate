@@ -6,10 +6,10 @@ function fn() {
 
     return {
         api:{
-            baserUrl: baseUrl
-        }
+            baseUrl: baseUrl
+        },
         user:{
             name: user
         }
-    }
+    };
 }

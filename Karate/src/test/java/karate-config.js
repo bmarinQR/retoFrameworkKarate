@@ -4,10 +4,10 @@ function fn() {
 
     return {
         api:{
-            baserUrl: 'http://api.geonames.arg/'
-        }
+            baseUrl: 'http://api.geonames.arg/'
+        },
         user:{
             name:'david.castro'
         }
-    }
+    };
 }
