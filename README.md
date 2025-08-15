@@ -1,7 +1,7 @@
 # Reto Karate Framework 🥋
 Repositorio para el reto sobre Karate Framework.
 
-Reto sobr el uso de Karate Framework 🥋.
+Reto sobre el uso de Karate Framework 🥋.
 
 En este reto haremos el uso de Karate para realizar el diseño y pruebas automatizadas de acerca de la siguiente plataforma: [GeoNames](http://api.geonames.org/)
 Este reto hará uso de la API de GeoNames para consultar algunas ubicaciones de distintos lugares del mundo, y verificar por medio de `tests` su validez, de acuerdo a como estos se hayan definido.
