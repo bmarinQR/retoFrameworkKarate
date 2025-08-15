@@ -4,7 +4,7 @@ function fn() {
 
     return {
         api:{
-            baseUrl: 'http://api.geonames.arg/'
+            baseUrl: 'http://api.geonames.org/'
         },
         user:{
             name:'david.castro'

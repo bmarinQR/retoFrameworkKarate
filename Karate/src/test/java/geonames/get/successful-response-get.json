@@ -1,5 +1,4 @@
 {
-  "_comment1": "## --> Campo opcional",
   "sunrise": "##string",
   "lng": "#number",
   "countryCode": "#string",
